@@ -2,7 +2,7 @@ program Project1;
 
 uses
   Forms,
-  Unit1 in 'Unit1.pas' {Form1};
+  Unit_user in 'Unit_user.pas' {Form1};
 
 {$R *.res}
 
